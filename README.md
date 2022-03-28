@@ -1,0 +1,1 @@
+# Daisy UI 2 theme, fields and widgets for react-jsonschema-form

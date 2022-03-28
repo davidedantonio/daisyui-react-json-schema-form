@@ -1,0 +1,6 @@
+.rts2_**
+.node_modules
+.idea
+.parcel-cache
+.dist
+.dist-demo
